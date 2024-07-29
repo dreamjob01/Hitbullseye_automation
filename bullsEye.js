@@ -1,4 +1,4 @@
-let keys = "DAAAADCBACABDAADBADCBABDDDAACAAACACCACAC";
+let keys = "ACDABBDDABABABBDBACBDBDDBABABA";
 let len = keys.length;
 
 let i = 0;
